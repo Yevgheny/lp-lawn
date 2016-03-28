@@ -1,0 +1,17 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-headline-underline-1 {
+    width: 257px;
+    height: 24px;
+    background-position: -30px -30px;
+}
+
+.sprite-headline-underline-2 {
+    width: 257px;
+    height: 24px;
+    background-position: -30px -114px;
+}
